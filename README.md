@@ -18,6 +18,7 @@ Whether you're launching your first delivery brand or scaling an existing operat
 - [Industry Associations](#industry-associations)
 - [Learning Resources](#learning-resources)
 - [Tools & Software](#tools--software)
+- [About](#about)
 
 ## Finding Kitchen Space
 
@@ -44,6 +45,9 @@ Detailed guides for starting a ghost kitchen in major UK cities.
 - [Dark Kitchen vs Shared Kitchen: Which is Right for Your UK Food Business?](https://commercialkitchenuk.hashnode.dev/dark-kitchen-vs-shared-kitchen-which-is-right-for-your-uk-food-business) - Comparison guide helping you decide between dedicated dark kitchen space and shared commercial kitchen arrangements.
 - [How Much Does It Cost to Start a Deliveroo Business in the UK?](https://commercialkitchenuk.hashnode.dev/how-much-does-it-cost-to-start-a-deliveroo-business-in-the-uk-2025-breakdown) - Complete cost breakdown for launching a delivery-only food business on Deliveroo, including kitchen rental, equipment, and platform fees.
 - [Top 5 Commercial Kitchens to Rent in the UK](https://medium.com/@dicktracey909/top-5-commercial-kitchens-to-rent-in-the-uk-the-ultimate-guide-for-food-entrepreneurs-fd00f8564914) - Comparison of the leading kitchen rental platforms for food entrepreneurs.
+- [Commercial Kitchen Rental UK: Complete Guide 2026](https://fountainofvastknowledge.blogspot.com/2026/01/commercial-kitchen-rental-uk-complete.html) - Full guide covering kitchen types, pricing by city, hidden costs, and finding the right space.
+- [Finding Commercial Kitchen Space in the UK](https://www.tumblr.com/fountainofvastknowledge/806852527502098432/finding-commercial-kitchen-space-in-the-uk-what) - Quick overview of ghost kitchen basics, what to consider, and key resources for food entrepreneurs.
+- [How to Find Commercial Kitchen Space in the UK](https://telegra.ph/How-to-Find-Commercial-Kitchen-Space-in-the-UK-01-27) - Market overview, kitchen types, pricing, and free tools for food entrepreneurs.
 
 ### City-Specific Guides
 
@@ -127,6 +131,7 @@ Detailed guides for starting a ghost kitchen in major UK cities.
 
 ### Guides & Articles
 
+- [How to Find Commercial Kitchen Space in the UK (SlideShare)](https://www.slideshare.net/slideshow/how-to-find-commercial-kitchen-space-in-the-uk-2026-guide/285562685) - 12-slide presentation covering market overview, pricing, and startup costs by city.
 - [Time Out: London Dark Kitchens Explained](https://www.timeout.com/london/news/the-mystery-of-londons-dark-kitchens-041322) - Comprehensive overview of the London ghost kitchen scene.
 - [Bird & Bird: Dark Kitchens in Franchising](https://www.twobirds.com/en/insights/2021/uk/use-of-dark-kitchens-in-franchised-systems) - Legal perspective on dark kitchen business models.
 - [UKTN: UK Dark Kitchen Startups](https://www.uktech.news/news/uk-dark-kitchen-startups-2021-20210518) - Overview of key players in the UK market.
@@ -154,6 +159,13 @@ Detailed guides for starting a ghost kitchen in major UK cities.
 
 - [Xero](https://www.xero.com/uk/) - Cloud accounting popular with UK food businesses.
 - [QuickBooks](https://quickbooks.intuit.com/uk/) - Accounting software with invoicing and expense tracking.
+
+---
+
+## About
+
+- [KitchenSpaceRentals on Product Hunt](https://www.producthunt.com/products/kitchen-space-for-rent) - UK commercial kitchen directory with free cost calculators.
+- [About KitchenSpaceRentals](https://about.me/kitchenspacerentals) - Who we are and what we do.
 
 ---
 
