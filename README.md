@@ -1,4 +1,4 @@
-# Awesome Ghost Kitchen UK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Commercial Kitchen UK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources for starting and running a ghost kitchen, dark kitchen, or cloud kitchen business in the United Kingdom.
 
@@ -9,6 +9,8 @@ Whether you're launching your first delivery brand or scaling an existing operat
 ## Contents
 
 - [Finding Kitchen Space](#finding-kitchen-space)
+- [Cost Calculators & Tools](#cost-calculators--tools)
+- [UK City Guides](#uk-city-guides)
 - [Major Kitchen Operators](#major-kitchen-operators)
 - [Delivery Platforms](#delivery-platforms)
 - [Food Safety & Licensing](#food-safety--licensing)
@@ -19,10 +21,38 @@ Whether you're launching your first delivery brand or scaling an existing operat
 
 ## Finding Kitchen Space
 
-- [KitchenSpaceRentals](https://kitchenspacerentals.com) - UK commercial kitchen directory with 1,300+ verified kitchens across 87 cities. Includes cost calculator, city guides, and operator reviews. Covers ghost kitchens, dark kitchens, and shared kitchen spaces from £15/hour.
+- [KitchenSpaceRentals](https://kitchenspacerentals.com/) - UK commercial kitchen directory with 1,300+ verified kitchens across 88 cities. Includes cost calculators, city guides, and operator reviews. Covers ghost kitchens, dark kitchens, and shared kitchen spaces from £15/hour.
 - [Peerspace](https://www.peerspace.com/venues/commercial-kitchen) - Marketplace for hourly kitchen rentals, good for pop-ups and recipe testing.
 - [Tagvenue](https://www.tagvenue.com/hire/commercial-kitchen) - Event and venue platform with commercial kitchen listings across the UK.
 - [We Are Pop Up](https://www.wearepopup.com/) - Platform connecting food businesses with available retail and kitchen spaces.
+
+## Cost Calculators & Tools
+
+Essential tools for planning your ghost kitchen business costs and menu pricing.
+
+- [Kitchen Rental Cost Calculator](https://kitchenspacerentals.com/calculator) - Free calculator revealing true total costs including utilities, insurance, storage, and hidden fees that add 30-50% to advertised rates. Based on analysis of 40+ verified UK kitchen listings.
+- [Food Cost Calculator](https://kitchenspacerentals.com/food-cost-calculator) - Calculate food cost percentage, recommended menu prices, and profit margins. Industry standard benchmarks (28-35%) included.
+- [Kitchen Finder Quiz](https://kitchenspacerentals.com/find-kitchen-space) - 60-second quiz matching you with the right kitchen type based on your business stage, location, and needs.
+
+## UK City Guides
+
+Detailed guides for starting a ghost kitchen in major UK cities.
+
+### Comprehensive Guides
+
+- [The Complete Guide to Renting a Commercial Kitchen in the UK](https://commercialkitchenuk.hashnode.dev/the-complete-guide-to-renting-a-commercial-kitchen-in-the-uk-2025) - Step-by-step guide covering types of kitchens, costs, legal requirements, and how to choose the right space for your food business.
+- [Dark Kitchen vs Shared Kitchen: Which is Right for Your UK Food Business?](https://commercialkitchenuk.hashnode.dev/dark-kitchen-vs-shared-kitchen-which-is-right-for-your-uk-food-business) - Comparison guide helping you decide between dedicated dark kitchen space and shared commercial kitchen arrangements.
+- [How Much Does It Cost to Start a Deliveroo Business in the UK?](https://commercialkitchenuk.hashnode.dev/how-much-does-it-cost-to-start-a-deliveroo-business-in-the-uk-2025-breakdown) - Complete cost breakdown for launching a delivery-only food business on Deliveroo, including kitchen rental, equipment, and platform fees.
+- [Top 5 Commercial Kitchens to Rent in the UK](https://medium.com/@dicktracey909/top-5-commercial-kitchens-to-rent-in-the-uk-the-ultimate-guide-for-food-entrepreneurs-fd00f8564914) - Comparison of the leading kitchen rental platforms for food entrepreneurs.
+
+### City-Specific Guides
+
+- [Ghost Kitchen London Guide 2026](https://kitchenspacerentals.com/blog/ghost-kitchen-london-guide-2025) - UK's #1 ghost kitchen market. £20-25k startup costs, 750+ ghost kitchens, complete neighbourhood analysis.
+- [Ghost Kitchen Manchester Guide 2026](https://kitchenspacerentals.com/blog/ghost-kitchen-manchester-guide-2025) - £15-20k startup costs, 100k+ student market, Northern Quarter food scene breakdown.
+- [Ghost Kitchen Birmingham Guide 2026](https://kitchenspacerentals.com/blog/ghost-kitchen-birmingham-guide-2025) - £18k startup costs, Balti Triangle heritage, complete startup guide.
+- [Ghost Kitchen Glasgow Guide 2026](https://kitchenspacerentals.com/blog/ghost-kitchen-glasgow-guide-2025) - £12-18k startup costs, Scotland's largest food delivery market.
+- [How to Start a Ghost Kitchen Business in the UK](https://kitchenspacerentals.com/blog/how-to-start-ghost-kitchen-business-uk-2025) - Step-by-step guide covering £3,000-15,000 startup costs, legal requirements, and profitability strategies.
+- [Commercial Kitchen Setup Costs UK](https://kitchenspacerentals.com/blog/commercial-kitchen-setup-costs-uk) - Full breakdown: £50,000-£150,000+ for equipment, ventilation, compliance. Compare building vs renting.
 
 ## Major Kitchen Operators
 
